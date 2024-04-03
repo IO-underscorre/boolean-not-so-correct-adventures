@@ -1,0 +1,108 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    background-image: url(images/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.primary-container {
+    width: 62.5vw;
+    margin: 2.5vh auto;
+    padding: 100px;
+    background-color: #00000080;
+    border-radius: 20px;
+    font-family: "Be Vietnam Pro", sans-serif;
+}
+
+.logo {
+    display: block;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header > h1 {
+    font-weight: 500;
+    font-size: 32px;
+    color: #00dd00;
+    text-align: center;
+}
+
+main {
+    color: #ffffff;
+}
+
+.selection-submit {
+    padding: 10px;
+    background-color: #00dd00;
+    text-align: center;
+}
+
+.selection-select {
+    margin-top: 27px;
+}
+
+.scooter {
+    margin-bottom: 34px;
+}
+
+.scooter > h2 {
+    display: inline-block;
+    font-size: 24px;
+}
+
+.scooter > p {
+    font-size: 16px;
+}
+
+.scooter > .charge {
+    height: 30px;
+    border-radius: 5px;
+}
+
+/* Esempi */
+
+#scooter-1 > .h2:after {
+    content: "Gino22";
+}
+
+#scooter-1 > .position:after {
+    content: "Via Guadalametri - a 220 metri da te";
+}
+
+#scooter-1 > .charge {
+    width: 35%;
+    background-color: orange;
+}
+
+#scooter-2 > .h2:after {
+    content: "Mike24";
+}
+
+#scooter-2 > .position:after {
+    content: "Via Ricciardoni - a 420 metri da te";
+}
+
+#scooter-2 > .charge {
+    width: 60%;
+    background-color: darkgreen;
+}
+
+#scooter-3 > .h2:after {
+    content: "Fede154";
+}
+
+#scooter-3 > .position:after {
+    content: "Via Mentarini - a 490 metri da te";
+}
+
+#scooter-3 > .charge {
+    width: 15%;
+    background-color: darkred;
+}
