@@ -55,10 +55,12 @@ main {
 .scooter > h2 {
     display: inline-block;
     font-size: 24px;
+    margin-bottom: 8px;
 }
 
 .scooter > p {
     font-size: 16px;
+    margin-bottom: 2px;
 }
 
 .scooter > .charge {
