@@ -4,7 +4,7 @@ Technologies used: Basic HTML and CSS.
 
 Project created as an entry test for the Full Stack Web Development Course at Boolean.
 
-
+---
 
 Riproducendo la pagina di gestione dei monopattini vicini in una web app di un'applicazione di condivisione di monopattini elettrici
 
