@@ -1,13 +1,21 @@
-Reproducing the nearby scooter management page in a web app for an electric scooter-sharing application
+# boolean-not-so-correct-adventures
+## Description
+Reproducing the nearby scooter management page in a web app for an electric scooter-sharing application.
 
-Technologies used: Basic HTML and CSS.
+## Languages & Tools
+Basic HTML and CSS.
 
+## Purpose & Context
 Project created as an entry test for the Full Stack Web Development Course at Boolean.
 
 ---
 
-Riproducendo la pagina di gestione dei monopattini vicini in una web app di un'applicazione di condivisione di monopattini elettrici
+# boolean-not-so-correct-adventures
+## Descrizione
+Riproducendo la pagina di gestione dei monopattini vicini in una web app di un'applicazione di condivisione di monopattini elettrici.
 
-Tecnologie usate: HTML e CSS semplici.
+## Linguaggi & Strumenti
+HTML e CSS semplici.
 
+## Scopo & Contesto
 Progetto creato come prova di ingresso per il Corso in Full Stack Web Development di Boolean.
