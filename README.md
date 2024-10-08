@@ -1,4 +1,5 @@
 # boolean-not-so-correct-adventures
+---
 ## Description
 Reproducing the nearby scooter management page in a web app for an electric scooter-sharing application.
 
@@ -10,7 +11,6 @@ Project created as an entry test for the Full Stack Web Development Course at Bo
 
 ---
 
-# boolean-not-so-correct-adventures
 ## Descrizione
 Riproducendo la pagina di gestione dei monopattini vicini in una web app di un'applicazione di condivisione di monopattini elettrici.
 
