@@ -1,21 +1,33 @@
-# boolean-not-so-correct-adventures
----
+# English
+
 ## Description
-Reproduction of a nearby scooter management page in a web app for an electric scooter-sharing service.
+Reproduction of a scooter management page for an electric scooter-sharing service, created as part of an entry test for a Full Stack Web Development course.
 
-## Languages & Tools
-HTML and CSS
+## Purpose
+This project serves as a demonstration of foundational skills in web development.
 
-## Purpose & Context
-Project created as an entry test for the Full Stack Web Development Course at Boolean.
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/IO-underscorre/boolean-not-so-correct-adventures.git
+   ```
+
+2. Open `index.html` in your browser.
 
 ---
+
+# Italiano
 
 ## Descrizione
-Riproduzione di una pagina di gestione dei monopattini vicini in una web app di un servizio di condivisione di monopattini elettrici.
+Riproduzione di una pagina di gestione dei monopattini elettrici, realizzata come parte di una prova di ingresso per il Corso di Full Stack Web Development.
 
-## Linguaggi & Strumenti
-HTML e CSS
+## Scopo
+Questo progetto serve come dimostrazione delle competenze di base nello sviluppo web.
 
-## Scopo & Contesto
-Progetto creato come prova di ingresso per il Corso in Full Stack Web Development di Boolean.
+## Installazione
+1. Clona il repository:
+   ```bash
+   git clone https://github.com/IO-underscorre/boolean-not-so-correct-adventures.git
+   ```
+
+2. Apri `index.html` nel tuo browser.
